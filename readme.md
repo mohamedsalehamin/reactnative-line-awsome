@@ -1,8 +1,7 @@
 
 # Line Awesome Icons for React Native
 
-A brief description of what this project does and who it's for
-
+Easily add and customize Line Awesome icons in your react native app
 
 ## Installation
 
